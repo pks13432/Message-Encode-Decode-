@@ -1,0 +1,2 @@
+# Message-Encode-Decode-
+This is Python project which help to encode and decode of message to created using python and tkinter,base64 library. The part of message encoding and decoding is that the process to convert the original text to random and meaningless text to called ciphertext. This process is called encoding. Decoding is the process to convert ciphertext to original text. This process is called encryption and decryption process.
